@@ -461,6 +461,8 @@
             resultName.textContent = '';
             document.getElementById('resultEmail').textContent = '';
             resultCount.innerHTML = '';
+            resultDetail.textContent = '';
+            resultStatus.textContent = '';
             progressContainer.style.display = 'none';
 
             const learner = learnerData[email];
@@ -479,12 +481,23 @@
                 resultName.textContent = learner.name;
                 resultEmail.textContent = email;
                 resultStatus.textContent = 'All courses completed!';
+                resultCount.innerHTML = '14 <span>of 14</span>';
+                progressContainer.style.display = 'block';
+                progressBar.classList.add('full');
+                progressBar.style.width = '100%';
+                if (learner.completion_date) {
+                    resultDetail.textContent = 'Completion date: ' + learner.completion_date;
+                }
             } else if (learner.completed > 0) {
                 resultBox.classList.add('partial');
                 resultIcon.textContent = '\u25D4';
                 resultName.textContent = learner.name;
                 resultEmail.textContent = email;
-                resultStatus.textContent = 'Some courses completed';
+                resultStatus.textContent = learner.completed + ' of 14 courses completed';
+                resultCount.innerHTML = learner.completed + ' <span>of 14</span>';
+                progressContainer.style.display = 'block';
+                progressBar.classList.add('partial');
+                progressBar.style.width = ((learner.completed / 14) * 100) + '%';
             } else {
                 resultBox.classList.add('none');
                 resultIcon.textContent = '\u25CB';
