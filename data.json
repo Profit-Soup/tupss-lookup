@@ -1,8 +1,8 @@
 {
-  "report_date": "07/15/2026",
-  "report_file": "TUPSS PSO Course Completions-07 15 26.xlsx",
-  "generated_at": "2026-07-15T16:11:27.431124",
-  "total_learners": 2828,
+  "report_date": "07/17/2026",
+  "report_file": "TUPSS PSO Course Completions-07 17 26.xlsx",
+  "generated_at": "2026-07-17T12:26:47.399973",
+  "total_learners": 2831,
   "learners": {
     "aosaucedo@icloud.com": {
       "name": "A. Oscar Saucedo",
@@ -133,7 +133,7 @@
     },
     "linhos@icloud.com": {
       "name": "Adam Linhos",
-      "completed": 1
+      "completed": 6
     },
     "amarvin1984@gmail.com": {
       "name": "Adam Marvin",
@@ -987,7 +987,8 @@
     },
     "store8160@theupsstore.com": {
       "name": "Arees Gharibian",
-      "completed": 12
+      "completed": 14,
+      "completion_date": "07/17/2026"
     },
     "store5772@theupsstore.com": {
       "name": "Ariel Jerez",
@@ -1865,6 +1866,10 @@
       "name": "Brooke Swartzentruber",
       "completed": 1
     },
+    "bmccombs01@gmail.com": {
+      "name": "Bruce McCombs",
+      "completed": 2
+    },
     "store0323@theupsstore.com": {
       "name": "Bruce Palmer",
       "completed": 14,
@@ -2050,7 +2055,8 @@
     },
     "manager@store8039.com": {
       "name": "Casey Stineman",
-      "completed": 8
+      "completed": 14,
+      "completion_date": "07/17/2026"
     },
     "store4034@theupsstore.com": {
       "name": "Catherine Dash",
@@ -3459,6 +3465,10 @@
       "name": "Edrees Shokoor",
       "completed": 14,
       "completion_date": "06/27/2025"
+    },
+    "eduardo@macias.us": {
+      "name": "Eduardo Macias",
+      "completed": 0
     },
     "eddymalak@gmail.com": {
       "name": "Edwar Abdelmalak",
@@ -5768,7 +5778,8 @@
     },
     "store2991@theupsstore.com": {
       "name": "John Kim",
-      "completed": 13
+      "completed": 14,
+      "completion_date": "07/17/2026"
     },
     "store8018@theupsstore.com": {
       "name": "John King",
@@ -5940,7 +5951,8 @@
     },
     "elrodriguez@gmail.com": {
       "name": "Jorge Rodriguez",
-      "completed": 11
+      "completed": 14,
+      "completion_date": "07/17/2026"
     },
     "fsudolfan13@aol.com": {
       "name": "Jorge Rodriguez",
@@ -7634,6 +7646,10 @@
       "name": "Marc Barbeau",
       "completed": 14,
       "completion_date": "06/06/2022"
+    },
+    "upsstore7890@gmail.com": {
+      "name": "Marc Henry Pierre Joseph",
+      "completed": 0
     },
     "msanden@upsstore.com": {
       "name": "Marc Sanden",
@@ -11789,7 +11805,8 @@
     },
     "stephen@upsprintstores.com": {
       "name": "Stephen Clark",
-      "completed": 8
+      "completed": 14,
+      "completion_date": "07/17/2026"
     },
     "store0286@theupsstore.com": {
       "name": "Stephen Edmonds",
@@ -12049,7 +12066,7 @@
     },
     "store4352@theupsstore.com": {
       "name": "Susan Weimer",
-      "completed": 1
+      "completed": 2
     },
     "ssasso@upsstore.com": {
       "name": "Susanne sasso",
@@ -12570,7 +12587,7 @@
     },
     "store6638@theupsstore.com": {
       "name": "Tonya Walton",
-      "completed": 10
+      "completed": 11
     },
     "toren.wikberg@gmail.com": {
       "name": "Toren Wikberg",
