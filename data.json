@@ -1,8 +1,8 @@
 {
-  "report_date": "07/17/2026",
-  "report_file": "TUPSS PSO Course Completions-07 17 26.xlsx",
-  "generated_at": "2026-07-17T12:26:47.399973",
-  "total_learners": 2831,
+  "report_date": "07/24/2026",
+  "report_file": "TUPSS PSO Course Completions-07 24 26.xlsx",
+  "generated_at": "2026-07-24T12:16:59.251838",
+  "total_learners": 2838,
   "learners": {
     "aosaucedo@icloud.com": {
       "name": "A. Oscar Saucedo",
@@ -1640,7 +1640,7 @@
     },
     "store5628@theupsstore.com": {
       "name": "Brad Rawson",
-      "completed": 3
+      "completed": 5
     },
     "gabbeneterprisesllc@gmail.com": {
       "name": "Bradford Gould",
@@ -1868,7 +1868,8 @@
     },
     "bmccombs01@gmail.com": {
       "name": "Bruce McCombs",
-      "completed": 2
+      "completed": 14,
+      "completion_date": "07/24/2026"
     },
     "store0323@theupsstore.com": {
       "name": "Bruce Palmer",
@@ -2489,7 +2490,8 @@
     },
     "claylewisiv@gmail.com": {
       "name": "Clay Lewis",
-      "completed": 11
+      "completed": 14,
+      "completion_date": "07/24/2026"
     },
     "owner7511@theupsstore.com": {
       "name": "Clayton Wells",
@@ -3200,7 +3202,8 @@
     },
     "007expertjava@gmail.com": {
       "name": "Dhvani Kalavadia",
-      "completed": 8
+      "completed": 14,
+      "completion_date": "07/24/2026"
     },
     "store7942@theupsstore.com": {
       "name": "Dhwani Shah",
@@ -3368,6 +3371,10 @@
       "name": "Doug Wetzel",
       "completed": 14,
       "completion_date": "11/08/2021"
+    },
+    "douglas.luhill@gmail.com": {
+      "name": "Douglas Lu-Hill",
+      "completed": 10
     },
     "store2291@theupsstore.com": {
       "name": "Douglas Meyer",
@@ -3974,6 +3981,10 @@
       "completed": 14,
       "completion_date": "05/21/2022"
     },
+    "godiboh@upsstore.com": {
+      "name": "George Odiboh",
+      "completed": 0
+    },
     "store7518@theupsstore.com": {
       "name": "Gerald Cline-Cole",
       "completed": 14,
@@ -4065,7 +4076,8 @@
     },
     "organicoffice619@gmail.com": {
       "name": "Greg Gagnon",
-      "completed": 1
+      "completed": 14,
+      "completion_date": "07/24/2026"
     },
     "store6372@theupsstore.com": {
       "name": "Greg Gebara",
@@ -4371,6 +4383,11 @@
     "hetulpate@theupsstore.com": {
       "name": "Hetul Patel",
       "completed": 4
+    },
+    "hetulups@gmail.com": {
+      "name": "Hetul Patel",
+      "completed": 14,
+      "completion_date": "07/24/2026"
     },
     "hreynoso@ups.com": {
       "name": "Heymi Reynoso",
@@ -7317,7 +7334,7 @@
     },
     "logan.hartwig@yahoo.com": {
       "name": "Logan Hartwig",
-      "completed": 2
+      "completed": 7
     },
     "lordinap@gmail.com": {
       "name": "Lordina Davies",
@@ -7649,7 +7666,7 @@
     },
     "upsstore7890@gmail.com": {
       "name": "Marc Henry Pierre Joseph",
-      "completed": 0
+      "completed": 1
     },
     "msanden@upsstore.com": {
       "name": "Marc Sanden",
@@ -7836,7 +7853,7 @@
     },
     "store8201@theupsstore.com": {
       "name": "Marmar Somael",
-      "completed": 0
+      "completed": 6
     },
     "store0162@theupsstore.com": {
       "name": "Maroun Alatrash",
@@ -7847,6 +7864,10 @@
       "name": "Martn DeLeon",
       "completed": 14,
       "completion_date": "09/09/2021"
+    },
+    "marvens.jean539@gmail.com": {
+      "name": "Marvens Jean",
+      "completed": 0
     },
     "crz_mrc@yahoo.com": {
       "name": "Mary Ann Cruz",
@@ -8711,6 +8732,10 @@
       "name": "Murali Urlam",
       "completed": 14,
       "completion_date": "05/29/2026"
+    },
+    "upsalaska@gmail.com": {
+      "name": "Muranda Orloff",
+      "completed": 0
     },
     "store7816@theupsstore.com": {
       "name": "Muthu Kumar V C RatnaSwamyPandian",
@@ -9904,7 +9929,8 @@
     },
     "store8216@theupsstore.com": {
       "name": "Rajin Raiyan",
-      "completed": 2
+      "completed": 14,
+      "completion_date": "07/24/2026"
     },
     "rajpatel9206@gmail.com": {
       "name": "Rajkumar Patel",
@@ -10063,7 +10089,7 @@
     },
     "store3996@theupsstore.com": {
       "name": "Ravi Vyas",
-      "completed": 2
+      "completed": 4
     },
     "ravjeet.singh@gmail.com": {
       "name": "Ravjeet Singh",
@@ -10333,7 +10359,7 @@
     },
     "ritupatel061184@gmail.com": {
       "name": "Rituben Patel",
-      "completed": 11
+      "completed": 12
     },
     "ritzyap1@yahoo.com": {
       "name": "Ritz Yap",
@@ -10933,6 +10959,10 @@
       "name": "Samrinder Singh",
       "completed": 0
     },
+    "stooma@hotmail.com": {
+      "name": "Samson Tooma",
+      "completed": 1
+    },
     "samuelg296@gmail.com": {
       "name": "Samuel Garcia",
       "completed": 14,
@@ -11084,7 +11114,7 @@
     },
     "chohan.sarj@gmail.com": {
       "name": "Sarbjit Chohan",
-      "completed": 1
+      "completed": 9
     },
     "j2chohan@gmail.com": {
       "name": "Sarbjit Chohan",
@@ -11910,7 +11940,7 @@
     },
     "stormie.west@gmail.com": {
       "name": "Stormie West",
-      "completed": 3
+      "completed": 6
     },
     "firstray7232@gmail.com": {
       "name": "Suchi Patel",
@@ -11951,7 +11981,7 @@
     },
     "snanrhe10@gmail.com": {
       "name": "Sukhdeep Singh",
-      "completed": 6
+      "completed": 8
     },
     "sukhjindersingh1001@gmail.com": {
       "name": "Sukhjinder Singh",
@@ -12066,7 +12096,7 @@
     },
     "store4352@theupsstore.com": {
       "name": "Susan Weimer",
-      "completed": 2
+      "completed": 10
     },
     "ssasso@upsstore.com": {
       "name": "Susanne sasso",
@@ -12587,7 +12617,8 @@
     },
     "store6638@theupsstore.com": {
       "name": "Tonya Walton",
-      "completed": 11
+      "completed": 14,
+      "completion_date": "07/24/2026"
     },
     "toren.wikberg@gmail.com": {
       "name": "Toren Wikberg",
@@ -12788,6 +12819,10 @@
     "sharadvandy@gmail.com": {
       "name": "Vandana Khetan",
       "completed": 2
+    },
+    "vanessatrujillo@upsstore.com": {
+      "name": "Vanessa Trujillo",
+      "completed": 0
     },
     "store7205@theupsstore.com": {
       "name": "Vantisa Hudson",
