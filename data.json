@@ -1,7 +1,7 @@
 {
-  "report_date": "08/27/2026",
-  "report_file": "TUPSS PSO Course Completions-08 27 26.xlsx",
-  "generated_at": "2026-08-27T12:51:27.956830",
+  "report_date": "08/28/2026",
+  "report_file": "TUPSS PSO Course Completions-08 28 26.xlsx",
+  "generated_at": "2026-08-28T15:02:44.983007",
   "total_learners": 2907,
   "learners": {
     "aosaucedo@icloud.com": {
@@ -526,7 +526,8 @@
     },
     "owner3764@theupsstore.com": {
       "name": "Amanda Field",
-      "completed": 6
+      "completed": 14,
+      "completion_date": "08/28/2026"
     },
     "amanda.zupsstores@gmail.com": {
       "name": "Amanda Short",
@@ -681,7 +682,8 @@
     },
     "amyspataro@yahoo.com": {
       "name": "Amy Spataro",
-      "completed": 9
+      "completed": 14,
+      "completion_date": "08/28/2026"
     },
     "owner3703@theupsstore.com": {
       "name": "Amy Whitaker",
@@ -2494,7 +2496,7 @@
     },
     "owner6916@theupsstore.com": {
       "name": "Christopher Panarello",
-      "completed": 5
+      "completed": 6
     },
     "jthomas5255@theupsstore.com": {
       "name": "Christopher Thomas",
@@ -7331,7 +7333,7 @@
     },
     "tupss8000@gmail.com": {
       "name": "LeAnne Spear",
-      "completed": 2
+      "completed": 3
     },
     "propertybylee@gmail.com": {
       "name": "Lee Ann Thomas",
@@ -7945,7 +7947,7 @@
     },
     "mdb1442@theupsstore.com": {
       "name": "Mark Becker",
-      "completed": 3
+      "completed": 4
     },
     "mburgin@upsstore.com": {
       "name": "Mark Burgin",
@@ -11396,7 +11398,7 @@
     },
     "saria.sadique@gmail.com": {
       "name": "Saria Sadique",
-      "completed": 9
+      "completed": 11
     },
     "5183upsstore@gmail.com": {
       "name": "Sarita Bhandari",
@@ -12389,7 +12391,8 @@
     },
     "store4352@theupsstore.com": {
       "name": "Susan Weimer",
-      "completed": 10
+      "completed": 14,
+      "completion_date": "08/28/2026"
     },
     "ssasso@upsstore.com": {
       "name": "Susanne sasso",
@@ -12699,7 +12702,7 @@
     },
     "store7884@theupsstore.com": {
       "name": "Thomas Camargo",
-      "completed": 11
+      "completed": 12
     },
     "thomaswfox@yahoo.com": {
       "name": "Thomas Fox",
