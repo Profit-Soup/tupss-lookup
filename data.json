@@ -1,8 +1,8 @@
 {
-  "report_date": "10/09/2026",
-  "report_file": "TUPSS PSO Course Completions-10 09 26.xlsx",
-  "generated_at": "2026-10-09T12:17:18.505044",
-  "total_learners": 2962,
+  "report_date": "10/16/2026",
+  "report_file": "TUPSS PSO Course Completions-10 16 26.xlsx",
+  "generated_at": "2026-10-16T12:17:38.241023",
+  "total_learners": 2973,
   "learners": {
     "aosaucedo@icloud.com": {
       "name": "A. Oscar Saucedo",
@@ -639,6 +639,10 @@
       "name": "Amla Dhamdhere",
       "completed": 14,
       "completion_date": "01/09/2026"
+    },
+    "ammita.uppal@gmail.com": {
+      "name": "Ammita Uppal",
+      "completed": 0
     },
     "store7437@theupsstore.com": {
       "name": "Amna Badar",
@@ -1375,7 +1379,7 @@
     },
     "bainmanning@gmail.com": {
       "name": "Bain Manning",
-      "completed": 1
+      "completed": 3
     },
     "kygiginc@gmail.com": {
       "name": "Balachander Gadikota",
@@ -1538,7 +1542,7 @@
     },
     "store0938@theupsstore.com": {
       "name": "Bhalinder Sidhu",
-      "completed": 6
+      "completed": 7
     },
     "arshaholdings@gmail.com": {
       "name": "Bhartiba Jadeja",
@@ -1988,7 +1992,7 @@
     },
     "store5841@theupsstore.com": {
       "name": "Brooke Cooper",
-      "completed": 1
+      "completed": 4
     },
     "brookemsfd@gmail.com": {
       "name": "Brooke Swartzentruber",
@@ -2031,7 +2035,7 @@
     },
     "owner3131@theupsstore.com": {
       "name": "Bryan Moore",
-      "completed": 2
+      "completed": 3
     },
     "bryansimons@upsstore.com": {
       "name": "Bryan Simons",
@@ -2108,7 +2112,7 @@
     },
     "camille.sevigny1@outlook.com": {
       "name": "Camille Sevigny",
-      "completed": 1
+      "completed": 2
     },
     "candiwatson05@yahoo.com": {
       "name": "Candi Watson",
@@ -2137,6 +2141,10 @@
     },
     "store1655@theupsstore.com": {
       "name": "Carla Davis",
+      "completed": 0
+    },
+    "micarkey@gmail.com": {
+      "name": "Carla Sukkarieh",
       "completed": 0
     },
     "store7112@theupsstore.com": {
@@ -2787,7 +2795,8 @@
     },
     "curtisjgordon2@gmail.com": {
       "name": "Curtis Gordon",
-      "completed": 9
+      "completed": 14,
+      "completion_date": "10/16/2026"
     },
     "19830274@theupsstore.com": {
       "name": "Curtis Johnson",
@@ -3552,7 +3561,7 @@
     },
     "dorendra@gmail.com": {
       "name": "Dorendra Adhikari",
-      "completed": 0
+      "completed": 1
     },
     "douglas_graf@yahoo.com": {
       "name": "Doug Graf",
@@ -3587,6 +3596,10 @@
       "name": "Dov Sandler",
       "completed": 14,
       "completion_date": "04/15/2024"
+    },
+    "draxpatel@gmail.com": {
+      "name": "Drax Patel",
+      "completed": 0
     },
     "dzinecker@upsstore.com": {
       "name": "Drew Zinecker",
@@ -4176,7 +4189,7 @@
     },
     "geeta@bhargavireality.com": {
       "name": "Geeta Bandi",
-      "completed": 3
+      "completed": 5
     },
     "jeewanthiliyanage@gmail.com": {
       "name": "Geethani Pandithage",
@@ -4189,7 +4202,7 @@
     },
     "store7668@theupsstore.com": {
       "name": "Gena Hanko",
-      "completed": 4
+      "completed": 7
     },
     "griswald14@gmail.com": {
       "name": "Gene Hornsby",
@@ -4500,7 +4513,7 @@
     },
     "store5006@theupsstore.com": {
       "name": "Harjit Singh",
-      "completed": 1
+      "completed": 2
     },
     "harman.g89@gmail.com": {
       "name": "Harmandeep Kaur",
@@ -4937,6 +4950,10 @@
       "name": "Jadd Elkeshen",
       "completed": 14,
       "completion_date": "12/17/2022"
+    },
+    "jade.loevv@gmail.com": {
+      "name": "Jade Loev",
+      "completed": 2
     },
     "jaesin8113@gmail.com": {
       "name": "Jae Chung",
@@ -5565,7 +5582,7 @@
     },
     "store1514@theupsstore.com": {
       "name": "Jeffrey Cobb",
-      "completed": 0
+      "completed": 1
     },
     "jeff.haluck@gmail.com": {
       "name": "Jeffrey Haluck",
@@ -5761,7 +5778,7 @@
     },
     "jessicanissley@upsstore.com": {
       "name": "Jessica Nissley",
-      "completed": 0
+      "completed": 1
     },
     "jessicalroseland@gmail.com": {
       "name": "Jessica Roseland",
@@ -6406,6 +6423,10 @@
       "name": "jOVITO CAMAT",
       "completed": 2
     },
+    "store6717@theupsstore.com": {
+      "name": "Joy Patton",
+      "completed": 0
+    },
     "owner3983@theupsstore.com": {
       "name": "Joyce Smith",
       "completed": 14,
@@ -6673,7 +6694,7 @@
     },
     "karen.deckersstorage@gmail.com": {
       "name": "Karen McGregor",
-      "completed": 7
+      "completed": 12
     },
     "karenmcgregor@theupsstore.com": {
       "name": "Karen McGregor",
@@ -6820,7 +6841,7 @@
     },
     "store1631@theupsstore.com": {
       "name": "Keith Hoelzel",
-      "completed": 2
+      "completed": 4
     },
     "njnotaryonthego@gmail.com": {
       "name": "Keith Kass",
@@ -7113,7 +7134,7 @@
     },
     "store7330@theupsstore.com": {
       "name": "Khushbu Bhakta",
-      "completed": 4
+      "completed": 5
     },
     "store7339@theupsstore.com": {
       "name": "Kim Mance",
@@ -7317,7 +7338,8 @@
     },
     "kulscience@yahoo.com": {
       "name": "Kulananda Sharma",
-      "completed": 2
+      "completed": 14,
+      "completion_date": "10/16/2026"
     },
     "owner7622@theupsstore.com": {
       "name": "Kuldip Shergill",
@@ -7681,7 +7703,7 @@
     },
     "larreola@upsstore.com": {
       "name": "Lizbeth Arreola Lugo",
-      "completed": 5
+      "completed": 7
     },
     "logan.burk@ustartservices.com": {
       "name": "Logan Burk",
@@ -8037,7 +8059,7 @@
     },
     "upsstore7890@gmail.com": {
       "name": "Marc Henry Pierre Joseph",
-      "completed": 1
+      "completed": 2
     },
     "msanden@upsstore.com": {
       "name": "Marc Sanden",
@@ -8404,7 +8426,7 @@
     },
     "store8025@theupsstore.com": {
       "name": "Maulik Patel",
-      "completed": 2
+      "completed": 9
     },
     "maulinshah28@gmail.com": {
       "name": "Maulin Shah",
@@ -9356,6 +9378,11 @@
       "completed": 14,
       "completion_date": "06/20/2024"
     },
+    "store8125@theupsstore.com": {
+      "name": "Neel Patel",
+      "completed": 14,
+      "completion_date": "10/16/2026"
+    },
     "chandyneenu@gmail.com": {
       "name": "Neenu Chandy",
       "completed": 14,
@@ -9608,7 +9635,7 @@
     },
     "nithsb@gmail.com": {
       "name": "Nithya Sharma",
-      "completed": 10
+      "completed": 11
     },
     "store6267@theupsstore.com": {
       "name": "Nitin Shah",
@@ -9626,7 +9653,7 @@
     },
     "quiznossub4916@hotmail.com": {
       "name": "Noe Herrera",
-      "completed": 12
+      "completed": 13
     },
     "noelcantu@upsstore.com": {
       "name": "Noel Cantu",
@@ -9682,7 +9709,7 @@
     },
     "nrandolph91@gmail.com": {
       "name": "Nygel Randolph",
-      "completed": 0
+      "completed": 2
     },
     "nsaghir@upsstore.com": {
       "name": "Nyla Saghir",
@@ -10427,7 +10454,7 @@
     },
     "raxv777@gmail.com": {
       "name": "Rakesh Patel",
-      "completed": 2
+      "completed": 10
     },
     "store0090@theupsstore.com": {
       "name": "Ralph Askar",
@@ -11160,7 +11187,8 @@
     },
     "owner5688@theupsstore.com": {
       "name": "Roshni Patel",
-      "completed": 2
+      "completed": 14,
+      "completion_date": "10/16/2026"
     },
     "ryu0893@theupsstore.com": {
       "name": "Roy Yu",
@@ -11310,6 +11338,10 @@
       "completed": 14,
       "completion_date": "09/12/2025"
     },
+    "ryan@bnhgrp.com": {
+      "name": "Ryan Walker",
+      "completed": 0
+    },
     "ryan.c.wilson86@gmail.com": {
       "name": "Ryan Wilson",
       "completed": 14,
@@ -11324,6 +11356,11 @@
       "name": "Sabina Gauli",
       "completed": 14,
       "completion_date": "08/22/2026"
+    },
+    "bhudutravel@gmail.com": {
+      "name": "Sabori Saha",
+      "completed": 14,
+      "completion_date": "10/16/2026"
     },
     "sabri.abdelhamid@yahoo.com": {
       "name": "Sabri Abdel-Hamid",
@@ -11756,6 +11793,11 @@
       "completed": 14,
       "completion_date": "04/14/2022"
     },
+    "boksaboksa1@gmail.com": {
+      "name": "Scott Scully",
+      "completed": 14,
+      "completion_date": "10/16/2026"
+    },
     "store0732@theupsstore.com": {
       "name": "Scott Sweress",
       "completed": 1
@@ -11933,7 +11975,7 @@
     },
     "store5648@theupsstore.com": {
       "name": "Shandrell Lewis",
-      "completed": 1
+      "completed": 2
     },
     "shanelong@upsstore.com": {
       "name": "Shane Long",
@@ -13090,6 +13132,10 @@
       "completed": 14,
       "completion_date": "07/25/2023"
     },
+    "casarainvestmentsllc@gmail.com": {
+      "name": "Timothy Spranger",
+      "completed": 0
+    },
     "store4018@theupsstore.com": {
       "name": "Timothy Sudbeck",
       "completed": 1
@@ -13532,6 +13578,10 @@
       "completed": 14,
       "completion_date": "07/24/2024"
     },
+    "vikasrathod013@yahoo.com": {
+      "name": "Vikas Rathod",
+      "completed": 0
+    },
     "store7594@theupsstore.com": {
       "name": "Vikas Saini",
       "completed": 14,
@@ -13859,7 +13909,7 @@
     },
     "ysvb3@yahoo.com": {
       "name": "Yogini Bhatia",
-      "completed": 8
+      "completed": 10
     },
     "2024maruti@gmail.com": {
       "name": "Yogini Patel",
